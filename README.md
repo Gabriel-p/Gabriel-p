@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I have a PhD in Physics but main field of study are [stellar clusters](https://en.wikipedia.org/wiki/Star_cluster)
+- I have a PhD in Physics but my main field of study is [stellar clusters](https://en.wikipedia.org/wiki/Star_cluster)
 - I'm particularly interested in the development of [astrophysical software using Python](https://asteca.github.io/)
 - I'm the maintainer of the [Unified Cluster Catalogue (UCC)](https://ucc.ar)
 - I'm currently a researcher at [CONICET](https://www.conicet.gov.ar/)
